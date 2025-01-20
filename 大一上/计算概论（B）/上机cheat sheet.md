@@ -1,6 +1,5 @@
 # 上机cheat sheet
 
-[TOC]
 
 
 
